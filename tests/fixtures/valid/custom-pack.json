@@ -1,0 +1,18 @@
+[
+  {
+    "id": "fixture.en.1",
+    "error_type": "invalid_email",
+    "locale": "en",
+    "severity": 3,
+    "message": "A perfectly valid custom roast for the test fixtures.",
+    "tags": ["fixture", "email"]
+  },
+  {
+    "id": "fixture.ms-MY.1",
+    "error_type": "required_field",
+    "locale": "ms-MY",
+    "severity": 2,
+    "message": "Ruangan ini wajib diisi, jangan lupa ya.",
+    "tags": ["fixture"]
+  }
+]

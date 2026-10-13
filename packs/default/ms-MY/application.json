@@ -1,0 +1,176 @@
+[
+  {
+    "id": "not_found.ms-MY.1",
+    "error_type": "not_found",
+    "locale": "ms-MY",
+    "severity": 2,
+    "message": "Tak jumpa, dik. Dah cari betul-betul ke baru tengok sekali?",
+    "tags": ["404", "bahasa-melayu"]
+  },
+  {
+    "id": "not_found.ms-MY.2",
+    "error_type": "not_found",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Benda ni hilang macam semangat hari Isnin.",
+    "tags": ["404", "bahasa-melayu"]
+  },
+  {
+    "id": "not_found.ms-MY.3",
+    "error_type": "not_found",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Dicari tak jumpa. Macam duit gaji hujung bulan.",
+    "tags": ["404", "bahasa-melayu"]
+  },
+
+  {
+    "id": "unauthorized.ms-MY.1",
+    "error_type": "unauthorized",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Boss, kenal pun tak. Login dulu.",
+    "tags": ["401", "bahasa-melayu"]
+  },
+  {
+    "id": "unauthorized.ms-MY.2",
+    "error_type": "unauthorized",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Semangat tu bagus, tapi credentials mana?",
+    "tags": ["401", "bahasa-melayu"]
+  },
+  {
+    "id": "unauthorized.ms-MY.3",
+    "error_type": "unauthorized",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "IC pun tak tunjuk, terus nak masuk. Berani betul.",
+    "tags": ["401", "bahasa-melayu"]
+  },
+
+  {
+    "id": "forbidden.ms-MY.1",
+    "error_type": "forbidden",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Boleh masuk sistem, tapi bukan kawasan ni, boss.",
+    "tags": ["403", "bahasa-melayu"]
+  },
+  {
+    "id": "forbidden.ms-MY.2",
+    "error_type": "forbidden",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Dah login bukan bermaksud semua benda boleh sentuh, dik.",
+    "tags": ["403", "bahasa-melayu"]
+  },
+  {
+    "id": "forbidden.ms-MY.3",
+    "error_type": "forbidden",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Pintu dah buka, tapi you masuk bilik orang pula.",
+    "tags": ["403", "bahasa-melayu"]
+  },
+
+  {
+    "id": "rate_limited.ms-MY.1",
+    "error_type": "rate_limited",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Slow sikit, boss. API ni bukan mesin ATM.",
+    "tags": ["429", "bahasa-melayu"]
+  },
+  {
+    "id": "rate_limited.ms-MY.2",
+    "error_type": "rate_limited",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Tekan banyak kali pun tak jadi lebih cepat, dik.",
+    "tags": ["429", "bahasa-melayu"]
+  },
+  {
+    "id": "rate_limited.ms-MY.3",
+    "error_type": "rate_limited",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Sabar tu separuh daripada iman. Rate limit tu separuh daripada API.",
+    "tags": ["429", "bahasa-melayu"]
+  },
+
+  {
+    "id": "network_error.ms-MY.1",
+    "error_type": "network_error",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Line buat hal, boss. Kali ni mungkin bukan salah you.",
+    "tags": ["network", "bahasa-melayu"]
+  },
+  {
+    "id": "network_error.ms-MY.2",
+    "error_type": "network_error",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Internet hilang. Mula-mula salahkan DNS dulu, macam biasa.",
+    "tags": ["network", "bahasa-melayu"]
+  },
+  {
+    "id": "network_error.ms-MY.3",
+    "error_type": "network_error",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Cuba restart router. Kalau tak jalan, restart harapan.",
+    "tags": ["network", "bahasa-melayu"]
+  },
+
+  {
+    "id": "request_timeout.ms-MY.1",
+    "error_type": "request_timeout",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Lama sangat, boss. Request tu pergi makan tengah hari ke?",
+    "tags": ["timeout", "bahasa-melayu"]
+  },
+  {
+    "id": "request_timeout.ms-MY.2",
+    "error_type": "request_timeout",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Server tengah fikir masa depan agaknya.",
+    "tags": ["timeout", "bahasa-melayu"]
+  },
+  {
+    "id": "request_timeout.ms-MY.3",
+    "error_type": "request_timeout",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Tunggu punya tunggu, boleh sempat kahwin dah.",
+    "tags": ["timeout", "bahasa-melayu"]
+  },
+
+  {
+    "id": "server_error.ms-MY.1",
+    "error_type": "server_error",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Server buat hal, boss. Kali ni jangan salahkan keyboard dulu.",
+    "tags": ["500", "bahasa-melayu"]
+  },
+  {
+    "id": "server_error.ms-MY.2",
+    "error_type": "server_error",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Sistem tengah pening. Kita bagi dia tarik nafas kejap.",
+    "tags": ["500", "bahasa-melayu"]
+  },
+  {
+    "id": "server_error.ms-MY.3",
+    "error_type": "server_error",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Bukan semua masalah boleh settle dengan restart, boss. Tapi kita cuba dulu.",
+    "tags": ["500", "bahasa-melayu"]
+  }
+]

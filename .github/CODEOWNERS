@@ -1,0 +1,28 @@
+# Code ownership.
+#
+# Engine, tooling, schema, CI, and security-sensitive files require review by a
+# maintainer. Content-only changes under packs/ intentionally do NOT require
+# code-owner review — they go through ordinary content review instead, so
+# contributors can add roasts without a core-code gate.
+
+# Default owner for anything not matched below.
+*                       @AmeerFaisalAdanan
+
+# Engine and build tooling.
+/src/                   @AmeerFaisalAdanan
+/scripts/               @AmeerFaisalAdanan
+/schema/                @AmeerFaisalAdanan
+/tsconfig.json          @AmeerFaisalAdanan
+/tsup.config.ts         @AmeerFaisalAdanan
+/vitest.config.ts       @AmeerFaisalAdanan
+/eslint.config.js       @AmeerFaisalAdanan
+/package.json           @AmeerFaisalAdanan
+/package-lock.json      @AmeerFaisalAdanan
+
+# CI/CD and security policy.
+/.github/               @AmeerFaisalAdanan
+/SECURITY.md            @AmeerFaisalAdanan
+/docs/                  @AmeerFaisalAdanan
+
+# NOTE: /packs/ is deliberately left without a code owner so content-only PRs
+# are not blocked on engine review.

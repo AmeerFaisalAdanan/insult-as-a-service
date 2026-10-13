@@ -1,0 +1,57 @@
+[
+  {
+    "id": "dup.en.1",
+    "error_type": "invalid_email",
+    "locale": "en",
+    "severity": 3,
+    "message": "first"
+  },
+  {
+    "id": "dup.en.1",
+    "error_type": "invalid_email",
+    "locale": "en",
+    "severity": 3,
+    "message": "duplicate id"
+  },
+  {
+    "id": "missing.fields.en.1",
+    "error_type": "invalid_email",
+    "locale": "en"
+  },
+  {
+    "id": "unknown.type.en.1",
+    "error_type": "launch_the_missiles",
+    "locale": "en",
+    "severity": 3,
+    "message": "unknown error type"
+  },
+  {
+    "id": "bad.locale.1",
+    "error_type": "invalid_email",
+    "locale": "fr-FR",
+    "severity": 3,
+    "message": "unsupported locale"
+  },
+  {
+    "id": "bad.severity.en.1",
+    "error_type": "invalid_email",
+    "locale": "en",
+    "severity": 9,
+    "message": "severity out of range"
+  },
+  {
+    "id": "empty.message.en.1",
+    "error_type": "invalid_email",
+    "locale": "en",
+    "severity": 3,
+    "message": "    "
+  },
+  {
+    "id": "unexpected.field.en.1",
+    "error_type": "invalid_email",
+    "locale": "en",
+    "severity": 3,
+    "message": "has an extra field",
+    "author": "should not be here"
+  }
+]

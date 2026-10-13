@@ -1,0 +1,209 @@
+[
+  {
+    "id": "invalid_email.ms-MY.1",
+    "error_type": "invalid_email",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Dik, alamat email pun tersalah. Nak hantar surat guna merpati ke?",
+    "tags": ["email", "bahasa-melayu"]
+  },
+  {
+    "id": "invalid_email.ms-MY.2",
+    "error_type": "invalid_email",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Alamat email tak sah, boss. Bukan semua benda boleh main agak-agak.",
+    "tags": ["email", "bahasa-melayu"]
+  },
+  {
+    "id": "invalid_email.ms-MY.3",
+    "error_type": "invalid_email",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Email pun tak lepas, macam mana nak lepas interview ni dik?",
+    "tags": ["email", "bahasa-melayu"]
+  },
+
+  {
+    "id": "required_field.ms-MY.1",
+    "error_type": "required_field",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Dik, ruangan wajib tu bukan hiasan.",
+    "tags": ["required", "bahasa-melayu"]
+  },
+  {
+    "id": "required_field.ms-MY.2",
+    "error_type": "required_field",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Isi dulu, boss. Sistem ni bukan bomoh.",
+    "tags": ["required", "bahasa-melayu"]
+  },
+  {
+    "id": "required_field.ms-MY.3",
+    "error_type": "required_field",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Borang tak lengkap, tapi semangat nak tekan Submit memang lengkap.",
+    "tags": ["required", "bahasa-melayu"]
+  },
+  {
+    "id": "required_field.ms-MY.4",
+    "error_type": "required_field",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Benda depan mata pun skip. Power betul.",
+    "tags": ["required", "bahasa-melayu"]
+  },
+  {
+    "id": "required_field.ms-MY.5",
+    "error_type": "required_field",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Isi borang pun macam buat assignment last minute.",
+    "tags": ["required", "bahasa-melayu"]
+  },
+
+  {
+    "id": "password_too_weak.ms-MY.1",
+    "error_type": "password_too_weak",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Dik, password tu senang sangat. Orang sebelah pun boleh teka.",
+    "tags": ["password", "bahasa-melayu"]
+  },
+  {
+    "id": "password_too_weak.ms-MY.2",
+    "error_type": "password_too_weak",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Kunci rumah pun you tak pilih yang semudah ni, kan?",
+    "tags": ["password", "bahasa-melayu"]
+  },
+  {
+    "id": "password_too_weak.ms-MY.3",
+    "error_type": "password_too_weak",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Password ni bukan lemah dah. Dia tengah minta cuti.",
+    "tags": ["password", "bahasa-melayu"]
+  },
+  {
+    "id": "password_too_weak.ms-MY.4",
+    "error_type": "password_too_weak",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Letak password macam ni, hacker pun rasa bersalah nak masuk.",
+    "tags": ["password", "bahasa-melayu"]
+  },
+
+  {
+    "id": "password_mismatch.ms-MY.1",
+    "error_type": "password_mismatch",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Dua-dua you punya password, tapi dua-dua tak sehaluan.",
+    "tags": ["password", "bahasa-melayu"]
+  },
+  {
+    "id": "password_mismatch.ms-MY.2",
+    "error_type": "password_mismatch",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Cuba tengok balik, boss. Password pertama dengan kedua tengah bergaduh.",
+    "tags": ["password", "bahasa-melayu"]
+  },
+  {
+    "id": "password_mismatch.ms-MY.3",
+    "error_type": "password_mismatch",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Password sendiri pun tak boleh sepakat. Macam mana nak sepakat dengan orang lain?",
+    "tags": ["password", "bahasa-melayu"]
+  },
+
+  {
+    "id": "password_too_short.ms-MY.1",
+    "error_type": "password_too_short",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Pendek sangat, dik. Password pun belum habis bernafas.",
+    "tags": ["password", "bahasa-melayu"]
+  },
+  {
+    "id": "password_too_short.ms-MY.2",
+    "error_type": "password_too_short",
+    "locale": "ms-MY",
+    "severity": 2,
+    "message": "Tambah sikit lagi, boss. Bukan tengah bayar ikut huruf.",
+    "tags": ["password", "bahasa-melayu"]
+  },
+
+  {
+    "id": "invalid_date.ms-MY.1",
+    "error_type": "invalid_date",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Tarikh ni dari tahun bila, boss?",
+    "tags": ["date", "bahasa-melayu"]
+  },
+  {
+    "id": "invalid_date.ms-MY.2",
+    "error_type": "invalid_date",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Kalendar pun dah pening tengok input ni.",
+    "tags": ["date", "bahasa-melayu"]
+  },
+  {
+    "id": "invalid_date.ms-MY.3",
+    "error_type": "invalid_date",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Dik, mesin masa belum launch lagi. Cuba tarikh yang wujud.",
+    "tags": ["date", "bahasa-melayu"]
+  },
+
+  {
+    "id": "invalid_number.ms-MY.1",
+    "error_type": "invalid_number",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Nombor, dik. Bukan karangan Bahasa Melayu.",
+    "tags": ["number", "bahasa-melayu"]
+  },
+  {
+    "id": "invalid_number.ms-MY.2",
+    "error_type": "invalid_number",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Kalkulator pun tak boleh tolong kalau input macam ni, boss.",
+    "tags": ["number", "bahasa-melayu"]
+  },
+  {
+    "id": "invalid_number.ms-MY.3",
+    "error_type": "invalid_number",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Ini input nombor ke ujian kreativiti?",
+    "tags": ["number", "bahasa-melayu"]
+  },
+
+  {
+    "id": "invalid_url.ms-MY.1",
+    "error_type": "invalid_url",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Link ni nak pergi mana, boss? Jalan pun tak ada.",
+    "tags": ["url", "bahasa-melayu"]
+  },
+  {
+    "id": "invalid_url.ms-MY.2",
+    "error_type": "invalid_url",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "URL tak sah, dik. Bukan semua benda yang ada titik tu website.",
+    "tags": ["url", "bahasa-melayu"]
+  }
+]

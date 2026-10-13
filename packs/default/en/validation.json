@@ -1,0 +1,317 @@
+[
+  {
+    "id": "invalid_email.en.1",
+    "error_type": "invalid_email",
+    "locale": "en",
+    "severity": 2,
+    "message": "That email looks a little off. Mind double-checking it?",
+    "tags": ["email"]
+  },
+  {
+    "id": "invalid_email.en.2",
+    "error_type": "invalid_email",
+    "locale": "en",
+    "severity": 3,
+    "message": "That email has more red flags than your last relationship.",
+    "tags": ["email"]
+  },
+  {
+    "id": "invalid_email.en.3",
+    "error_type": "invalid_email",
+    "locale": "en",
+    "severity": 3,
+    "message": "Email typo detected. Confidence level: CEO.",
+    "tags": ["email"]
+  },
+  {
+    "id": "invalid_email.en.4",
+    "error_type": "invalid_email",
+    "locale": "en",
+    "severity": 4,
+    "message": "gmail.con? You had one job and the keyboard was right there.",
+    "tags": ["email", "typo"]
+  },
+  {
+    "id": "invalid_email.en.5",
+    "error_type": "invalid_email",
+    "locale": "en",
+    "severity": 4,
+    "message": "That is not an email. That is a cry for help with an @ in it.",
+    "tags": ["email"]
+  },
+
+  {
+    "id": "required_field.en.1",
+    "error_type": "required_field",
+    "locale": "en",
+    "severity": 2,
+    "message": "This field is required. It's not shy, it just needs something.",
+    "tags": ["required"]
+  },
+  {
+    "id": "required_field.en.2",
+    "error_type": "required_field",
+    "locale": "en",
+    "severity": 3,
+    "message": "The field is empty. The confidence, however, is full.",
+    "tags": ["required"]
+  },
+  {
+    "id": "required_field.en.3",
+    "error_type": "required_field",
+    "locale": "en",
+    "severity": 3,
+    "message": "This field is mandatory. Your cooperation appears to be optional.",
+    "tags": ["required"]
+  },
+  {
+    "id": "required_field.en.4",
+    "error_type": "required_field",
+    "locale": "en",
+    "severity": 4,
+    "message": "You pressed Submit with half the form missing. Bold strategy.",
+    "tags": ["required"]
+  },
+
+  {
+    "id": "invalid_url.en.1",
+    "error_type": "invalid_url",
+    "locale": "en",
+    "severity": 2,
+    "message": "That URL isn't quite right. A little https:// goes a long way.",
+    "tags": ["url"]
+  },
+  {
+    "id": "invalid_url.en.2",
+    "error_type": "invalid_url",
+    "locale": "en",
+    "severity": 3,
+    "message": "That's not a URL. That's a cry for help with punctuation.",
+    "tags": ["url"]
+  },
+  {
+    "id": "invalid_url.en.3",
+    "error_type": "invalid_url",
+    "locale": "en",
+    "severity": 3,
+    "message": "URL invalid. Even Google wouldn't know where to send this.",
+    "tags": ["url"]
+  },
+  {
+    "id": "invalid_url.en.4",
+    "error_type": "invalid_url",
+    "locale": "en",
+    "severity": 4,
+    "message": "You gave us a link-shaped object. Very creative.",
+    "tags": ["url"]
+  },
+
+  {
+    "id": "invalid_number.en.1",
+    "error_type": "invalid_number",
+    "locale": "en",
+    "severity": 2,
+    "message": "Numbers only, please. Letters are not on the payroll.",
+    "tags": ["number"]
+  },
+  {
+    "id": "invalid_number.en.2",
+    "error_type": "invalid_number",
+    "locale": "en",
+    "severity": 3,
+    "message": "You entered text and expected mathematics to happen?",
+    "tags": ["number"]
+  },
+  {
+    "id": "invalid_number.en.3",
+    "error_type": "invalid_number",
+    "locale": "en",
+    "severity": 3,
+    "message": "This field wanted a number, not a creative writing submission.",
+    "tags": ["number"]
+  },
+  {
+    "id": "invalid_number.en.4",
+    "error_type": "invalid_number",
+    "locale": "en",
+    "severity": 3,
+    "message": "Even a calculator has boundaries.",
+    "tags": ["number"]
+  },
+
+  {
+    "id": "invalid_format.en.1",
+    "error_type": "invalid_format",
+    "locale": "en",
+    "severity": 2,
+    "message": "The format is off. Take another look at the example.",
+    "tags": ["format"]
+  },
+  {
+    "id": "invalid_format.en.2",
+    "error_type": "invalid_format",
+    "locale": "en",
+    "severity": 3,
+    "message": "There was a format. You interpreted it as a suggestion.",
+    "tags": ["format"]
+  },
+
+  {
+    "id": "invalid_input.en.1",
+    "error_type": "invalid_input",
+    "locale": "en",
+    "severity": 2,
+    "message": "Something about that input isn't right. Give it another try.",
+    "tags": ["input"]
+  },
+  {
+    "id": "invalid_input.en.2",
+    "error_type": "invalid_input",
+    "locale": "en",
+    "severity": 3,
+    "message": "This input passed your validation? Please tell me your test suite is also fictional.",
+    "tags": ["input"]
+  },
+
+  {
+    "id": "out_of_range.en.1",
+    "error_type": "out_of_range",
+    "locale": "en",
+    "severity": 2,
+    "message": "That value is outside the allowed range. So close.",
+    "tags": ["range"]
+  },
+  {
+    "id": "out_of_range.en.2",
+    "error_type": "out_of_range",
+    "locale": "en",
+    "severity": 3,
+    "message": "There were limits. You chose to ignore all of them.",
+    "tags": ["range"]
+  },
+  {
+    "id": "out_of_range.en.3",
+    "error_type": "out_of_range",
+    "locale": "en",
+    "severity": 4,
+    "message": "That number is so out of range it needs a passport.",
+    "tags": ["range"]
+  },
+
+  {
+    "id": "password_too_short.en.1",
+    "error_type": "password_too_short",
+    "locale": "en",
+    "severity": 2,
+    "message": "A few more characters and we're there. Don't make security beg.",
+    "tags": ["password"]
+  },
+  {
+    "id": "password_too_short.en.2",
+    "error_type": "password_too_short",
+    "locale": "en",
+    "severity": 3,
+    "message": "That password ended before the security started.",
+    "tags": ["password"]
+  },
+  {
+    "id": "password_too_short.en.3",
+    "error_type": "password_too_short",
+    "locale": "en",
+    "severity": 4,
+    "message": "Your password is shorter than your attention span.",
+    "tags": ["password"]
+  },
+
+  {
+    "id": "password_too_weak.en.1",
+    "error_type": "password_too_weak",
+    "locale": "en",
+    "severity": 2,
+    "message": "Try mixing in a symbol or a number for strength.",
+    "tags": ["password"]
+  },
+  {
+    "id": "password_too_weak.en.2",
+    "error_type": "password_too_weak",
+    "locale": "en",
+    "severity": 3,
+    "message": "Your password is doing security theatre. Very convincing, until someone checks.",
+    "tags": ["password"]
+  },
+  {
+    "id": "password_too_weak.en.3",
+    "error_type": "password_too_weak",
+    "locale": "en",
+    "severity": 3,
+    "message": "This password is one leaked database away from retirement.",
+    "tags": ["password"]
+  },
+  {
+    "id": "password_too_weak.en.4",
+    "error_type": "password_too_weak",
+    "locale": "en",
+    "severity": 4,
+    "message": "Your password has the structural integrity of a wet tissue.",
+    "tags": ["password"]
+  },
+
+  {
+    "id": "password_mismatch.en.1",
+    "error_type": "password_mismatch",
+    "locale": "en",
+    "severity": 3,
+    "message": "Two fields. Same person typing. Zero teamwork.",
+    "tags": ["password"]
+  },
+  {
+    "id": "password_mismatch.en.2",
+    "error_type": "password_mismatch",
+    "locale": "en",
+    "severity": 3,
+    "message": "You typed it twice and still managed to surprise yourself.",
+    "tags": ["password"]
+  },
+
+  {
+    "id": "invalid_date.en.1",
+    "error_type": "invalid_date",
+    "locale": "en",
+    "severity": 2,
+    "message": "Date entered. Calendar disagrees.",
+    "tags": ["date"]
+  },
+  {
+    "id": "invalid_date.en.2",
+    "error_type": "invalid_date",
+    "locale": "en",
+    "severity": 3,
+    "message": "That date has officially left this timeline.",
+    "tags": ["date"]
+  },
+  {
+    "id": "invalid_date.en.3",
+    "error_type": "invalid_date",
+    "locale": "en",
+    "severity": 3,
+    "message": "Your date format has more plot twists than a drama series.",
+    "tags": ["date"]
+  },
+
+  {
+    "id": "invalid_phone.en.1",
+    "error_type": "invalid_phone",
+    "locale": "en",
+    "severity": 2,
+    "message": "That phone number looks incomplete. Mind checking it?",
+    "tags": ["phone"]
+  },
+  {
+    "id": "invalid_phone.en.2",
+    "error_type": "invalid_phone",
+    "locale": "en",
+    "severity": 3,
+    "message": "I'd call that number, but it doesn't exist.",
+    "tags": ["phone"]
+  }
+]

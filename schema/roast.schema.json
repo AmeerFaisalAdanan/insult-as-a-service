@@ -1,0 +1,59 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/AmeerFaisalAdanan/insult-as-a-service/schema/roast.schema.json",
+  "title": "Roast pack",
+  "description": "A data-only pack of roast templates. A pack file is an array of roast entries.",
+  "type": "array",
+  "items": { "$ref": "#/$defs/roastEntry" },
+  "$defs": {
+    "roastEntry": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "error_type", "locale", "severity", "message"],
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "Unique, stable content identifier.",
+          "minLength": 1,
+          "maxLength": 128,
+          "pattern": "^[A-Za-z0-9._:-]+$"
+        },
+        "error_type": {
+          "type": "string",
+          "description": "Registered error category.",
+          "minLength": 1,
+          "maxLength": 64,
+          "pattern": "^[a-z][a-z0-9_]*$"
+        },
+        "locale": {
+          "type": "string",
+          "description": "Supported locale identifier (e.g. en, en-MY, ms-MY).",
+          "pattern": "^[a-z]{2}(-[A-Z]{2})?$"
+        },
+        "severity": {
+          "type": "integer",
+          "description": "Humour intensity, 1 (gentle) through 5 (maximum playful roast).",
+          "minimum": 1,
+          "maximum": 5
+        },
+        "message": {
+          "type": "string",
+          "description": "Non-empty plain-text roast message. Never interpolated with user input.",
+          "minLength": 1,
+          "maxLength": 280
+        },
+        "tags": {
+          "type": "array",
+          "description": "Optional controlled metadata.",
+          "maxItems": 12,
+          "items": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 32,
+            "pattern": "^[a-z0-9-]+$"
+          }
+        }
+      }
+    }
+  }
+}

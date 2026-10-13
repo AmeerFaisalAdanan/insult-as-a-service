@@ -1,0 +1,288 @@
+[
+  {
+    "id": "not_found.en-MY.1",
+    "error_type": "not_found",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "404. Macam motivation you on Monday morning.",
+    "tags": ["404", "manglish"]
+  },
+  {
+    "id": "not_found.en-MY.2",
+    "error_type": "not_found",
+    "locale": "en-MY",
+    "severity": 2,
+    "message": "Not found. Have you tried looking properly, boss?",
+    "tags": ["404", "manglish"]
+  },
+  {
+    "id": "not_found.en-MY.3",
+    "error_type": "not_found",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "Gone. Like the documentation you promised to write.",
+    "tags": ["404", "manglish"]
+  },
+  {
+    "id": "not_found.en-MY.4",
+    "error_type": "not_found",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "We searched everywhere. Even under your unfinished side projects.",
+    "tags": ["404", "manglish"]
+  },
+  {
+    "id": "not_found.en-MY.5",
+    "error_type": "not_found",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "This resource has mastered the art of disappearing without notice.",
+    "tags": ["404", "manglish"]
+  },
+  {
+    "id": "not_found.en-MY.6",
+    "error_type": "not_found",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "Macam crush you, boss. Search sampai sudah pun tak jumpa.",
+    "tags": ["404", "manglish"]
+  },
+
+  {
+    "id": "unauthorized.en-MY.1",
+    "error_type": "unauthorized",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "Who are you, bro? Credentials dulu.",
+    "tags": ["401", "manglish"]
+  },
+  {
+    "id": "unauthorized.en-MY.2",
+    "error_type": "unauthorized",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "Authentication failed. Confidence cannot be used as an identity document.",
+    "tags": ["401", "manglish"]
+  },
+  {
+    "id": "unauthorized.en-MY.3",
+    "error_type": "unauthorized",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "Nice try. The server doesn't accept vibes as credentials.",
+    "tags": ["401", "manglish"]
+  },
+  {
+    "id": "unauthorized.en-MY.4",
+    "error_type": "unauthorized",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "Boss, the server doesn't know you like that.",
+    "tags": ["401", "manglish"]
+  },
+  {
+    "id": "unauthorized.en-MY.5",
+    "error_type": "unauthorized",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "You came in with main-character energy and zero credentials.",
+    "tags": ["401", "manglish"]
+  },
+
+  {
+    "id": "forbidden.en-MY.1",
+    "error_type": "forbidden",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "Access denied. Even the server has boundaries.",
+    "tags": ["403", "manglish"]
+  },
+  {
+    "id": "forbidden.en-MY.2",
+    "error_type": "forbidden",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "Boss said no. You want to argue with the server also ah?",
+    "tags": ["403", "manglish"]
+  },
+  {
+    "id": "forbidden.en-MY.3",
+    "error_type": "forbidden",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "You authenticated successfully. Unfortunately, permission is a different conversation.",
+    "tags": ["403", "manglish"]
+  },
+  {
+    "id": "forbidden.en-MY.4",
+    "error_type": "forbidden",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "You have the key, bro. You just don't own the house.",
+    "tags": ["403", "manglish"]
+  },
+  {
+    "id": "forbidden.en-MY.5",
+    "error_type": "forbidden",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "Login berjaya. Hak akses tak berjaya. Move on lah.",
+    "tags": ["403", "manglish"]
+  },
+
+  {
+    "id": "rate_limited.en-MY.1",
+    "error_type": "rate_limited",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "Boss, relax. This API is not a 24-hour buffet.",
+    "tags": ["429", "manglish"]
+  },
+  {
+    "id": "rate_limited.en-MY.2",
+    "error_type": "rate_limited",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "You clicked that button like it owes you money.",
+    "tags": ["429", "manglish"]
+  },
+  {
+    "id": "rate_limited.en-MY.3",
+    "error_type": "rate_limited",
+    "locale": "en-MY",
+    "severity": 2,
+    "message": "Too many requests. Even the server needs a breather lah.",
+    "tags": ["429", "manglish"]
+  },
+  {
+    "id": "rate_limited.en-MY.4",
+    "error_type": "rate_limited",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "Bro is stress-testing production with enthusiasm and no permission.",
+    "tags": ["429", "manglish"]
+  },
+  {
+    "id": "rate_limited.en-MY.5",
+    "error_type": "rate_limited",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "Clicking faster won't make your life load faster.",
+    "tags": ["429", "manglish"]
+  },
+
+  {
+    "id": "network_error.en-MY.1",
+    "error_type": "network_error",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "The network went out for teh tarik. Try again later.",
+    "tags": ["network", "manglish"]
+  },
+  {
+    "id": "network_error.en-MY.2",
+    "error_type": "network_error",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "Connection lost. Everyone is now pretending this is DNS.",
+    "tags": ["network", "manglish"]
+  },
+  {
+    "id": "network_error.en-MY.3",
+    "error_type": "network_error",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "Internet connection missing. Have you tried blaming the router first?",
+    "tags": ["network", "manglish"]
+  },
+  {
+    "id": "network_error.en-MY.4",
+    "error_type": "network_error",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "Network gone. Time to practise the ancient art of blaming infrastructure.",
+    "tags": ["network", "manglish"]
+  },
+
+  {
+    "id": "request_timeout.en-MY.1",
+    "error_type": "request_timeout",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "Loading lama macam tunggu approval. At least the server has an excuse.",
+    "tags": ["timeout", "manglish"]
+  },
+  {
+    "id": "request_timeout.en-MY.2",
+    "error_type": "request_timeout",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "The request took so long it started questioning its career.",
+    "tags": ["timeout", "manglish"]
+  },
+  {
+    "id": "request_timeout.en-MY.3",
+    "error_type": "request_timeout",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "Timeout. Your request went for lunch and never came back.",
+    "tags": ["timeout", "manglish"]
+  },
+  {
+    "id": "request_timeout.en-MY.4",
+    "error_type": "request_timeout",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "This request has been loading longer than your motivation to refactor.",
+    "tags": ["timeout", "manglish"]
+  },
+  {
+    "id": "request_timeout.en-MY.5",
+    "error_type": "request_timeout",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "Bro, the server ghosted your request.",
+    "tags": ["timeout", "manglish"]
+  },
+
+  {
+    "id": "server_error.en-MY.1",
+    "error_type": "server_error",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "Server error. Even the server needs a moment to process your decisions.",
+    "tags": ["500", "manglish"]
+  },
+  {
+    "id": "server_error.en-MY.2",
+    "error_type": "server_error",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "Something went wrong. For legal reasons, we're blaming neither you nor DNS.",
+    "tags": ["500", "manglish"]
+  },
+  {
+    "id": "server_error.en-MY.3",
+    "error_type": "server_error",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "The server has encountered a problem and would like to speak to its manager.",
+    "tags": ["500", "manglish"]
+  },
+  {
+    "id": "server_error.en-MY.4",
+    "error_type": "server_error",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "The server is having a worse Monday than you.",
+    "tags": ["500", "manglish"]
+  },
+  {
+    "id": "server_error.en-MY.5",
+    "error_type": "server_error",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "Five hundred. The server has officially lost the plot.",
+    "tags": ["500", "manglish"]
+  }
+]

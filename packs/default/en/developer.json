@@ -1,0 +1,279 @@
+[
+  {
+    "id": "missing_config.en.1",
+    "error_type": "missing_config",
+    "locale": "en",
+    "severity": 3,
+    "message": "Missing environment variable. Your .env file has trust issues.",
+    "tags": ["config", "devmeme"]
+  },
+  {
+    "id": "missing_config.en.2",
+    "error_type": "missing_config",
+    "locale": "en",
+    "severity": 3,
+    "message": "Apparently, vibes were supposed to fill in the missing configuration.",
+    "tags": ["config", "devmeme"]
+  },
+  {
+    "id": "missing_config.en.3",
+    "error_type": "missing_config",
+    "locale": "en",
+    "severity": 3,
+    "message": "Production is asking where your configuration went. Fair question.",
+    "tags": ["config", "devmeme"]
+  },
+
+  {
+    "id": "build_failed.en.1",
+    "error_type": "build_failed",
+    "locale": "en",
+    "severity": 3,
+    "message": "Congratulations. You broke the code before users even had the chance.",
+    "tags": ["build", "ci", "devmeme"]
+  },
+  {
+    "id": "build_failed.en.2",
+    "error_type": "build_failed",
+    "locale": "en",
+    "severity": 2,
+    "message": "Build failed. At least the bugs haven't reached production yet.",
+    "tags": ["build", "ci", "devmeme"]
+  },
+  {
+    "id": "build_failed.en.3",
+    "error_type": "build_failed",
+    "locale": "en",
+    "severity": 3,
+    "message": "Your code compiled successfully in the alternate universe.",
+    "tags": ["build", "devmeme"]
+  },
+  {
+    "id": "build_failed.en.4",
+    "error_type": "build_failed",
+    "locale": "en",
+    "severity": 3,
+    "message": "The compiler has submitted its resignation.",
+    "tags": ["build", "devmeme"]
+  },
+  {
+    "id": "build_failed.en.5",
+    "error_type": "build_failed",
+    "locale": "en",
+    "severity": 3,
+    "message": "CI failed. Continuous Integration, Continuous Disappointment.",
+    "tags": ["ci", "devmeme"]
+  },
+
+  {
+    "id": "merge_conflict.en.1",
+    "error_type": "merge_conflict",
+    "locale": "en",
+    "severity": 3,
+    "message": "Git says resolve conflicts. Your team says resolve your decisions.",
+    "tags": ["git", "devmeme"]
+  },
+  {
+    "id": "merge_conflict.en.2",
+    "error_type": "merge_conflict",
+    "locale": "en",
+    "severity": 3,
+    "message": "Two branches entered. One working tree left.",
+    "tags": ["git", "devmeme"]
+  },
+  {
+    "id": "merge_conflict.en.3",
+    "error_type": "merge_conflict",
+    "locale": "en",
+    "severity": 3,
+    "message": "This merge conflict has more unresolved issues than a team retrospective.",
+    "tags": ["git", "devmeme"]
+  },
+  {
+    "id": "merge_conflict.en.4",
+    "error_type": "merge_conflict",
+    "locale": "en",
+    "severity": 3,
+    "message": "Git is asking you to choose a side. Your code has commitment issues.",
+    "tags": ["git", "devmeme"]
+  },
+
+  {
+    "id": "syntax_error.en.1",
+    "error_type": "syntax_error",
+    "locale": "en",
+    "severity": 3,
+    "message": "A single semicolon has more control over this project than you do.",
+    "tags": ["syntax", "devmeme"]
+  },
+  {
+    "id": "syntax_error.en.2",
+    "error_type": "syntax_error",
+    "locale": "en",
+    "severity": 3,
+    "message": "The compiler noticed your punctuation before your reviewer noticed your logic.",
+    "tags": ["syntax", "devmeme"]
+  },
+  {
+    "id": "syntax_error.en.3",
+    "error_type": "syntax_error",
+    "locale": "en",
+    "severity": 3,
+    "message": "Syntax error. The computer is very literal, unlike your requirements.",
+    "tags": ["syntax", "devmeme"]
+  },
+
+  {
+    "id": "type_error.en.1",
+    "error_type": "type_error",
+    "locale": "en",
+    "severity": 3,
+    "message": "Expected a number. Received a personality.",
+    "tags": ["types", "devmeme"]
+  },
+  {
+    "id": "type_error.en.2",
+    "error_type": "type_error",
+    "locale": "en",
+    "severity": 3,
+    "message": "Your variables have identity issues.",
+    "tags": ["types", "devmeme"]
+  },
+  {
+    "id": "type_error.en.3",
+    "error_type": "type_error",
+    "locale": "en",
+    "severity": 3,
+    "message": "Types matter. This isn't a free-type buffet.",
+    "tags": ["types", "devmeme"]
+  },
+
+  {
+    "id": "dev_error.en.1",
+    "error_type": "dev_error",
+    "locale": "en",
+    "severity": 3,
+    "message": "Your code has more exceptions than reasons to trust it.",
+    "tags": ["devmeme"]
+  },
+  {
+    "id": "dev_error.en.2",
+    "error_type": "dev_error",
+    "locale": "en",
+    "severity": 4,
+    "message": "You didn't handle the edge case. You ARE the edge case.",
+    "tags": ["devmeme"]
+  },
+  {
+    "id": "dev_error.en.3",
+    "error_type": "dev_error",
+    "locale": "en",
+    "severity": 3,
+    "message": "Your error handling is just catch (e) { /* vibes */ }.",
+    "tags": ["devmeme"]
+  },
+  {
+    "id": "dev_error.en.4",
+    "error_type": "dev_error",
+    "locale": "en",
+    "severity": 3,
+    "message": "You call this a hotfix because the code is literally on fire.",
+    "tags": ["devmeme"]
+  },
+  {
+    "id": "dev_error.en.5",
+    "error_type": "dev_error",
+    "locale": "en",
+    "severity": 3,
+    "message": "Your production environment is just staging with consequences.",
+    "tags": ["devmeme"]
+  },
+  {
+    "id": "dev_error.en.6",
+    "error_type": "dev_error",
+    "locale": "en",
+    "severity": 3,
+    "message": "The bug isn't hiding. Your test coverage is.",
+    "tags": ["devmeme"]
+  },
+  {
+    "id": "dev_error.en.7",
+    "error_type": "dev_error",
+    "locale": "en",
+    "severity": 3,
+    "message": "You have two problems: the original problem, and the solution you just committed.",
+    "tags": ["devmeme"]
+  },
+  {
+    "id": "dev_error.en.8",
+    "error_type": "dev_error",
+    "locale": "en",
+    "severity": 4,
+    "message": "The code works. Nobody knows why. Nobody dares to touch it. Congratulations, you built legacy software.",
+    "tags": ["devmeme"]
+  },
+  {
+    "id": "dev_error.en.9",
+    "error_type": "dev_error",
+    "locale": "en",
+    "severity": 3,
+    "message": "It works on localhost. So does my confidence before checking production.",
+    "tags": ["devmeme"]
+  },
+  {
+    "id": "dev_error.en.10",
+    "error_type": "dev_error",
+    "locale": "en",
+    "severity": 3,
+    "message": "Deployed on Friday? Somebody likes living dangerously.",
+    "tags": ["devmeme"]
+  },
+  {
+    "id": "dev_error.en.11",
+    "error_type": "dev_error",
+    "locale": "en",
+    "severity": 3,
+    "message": "The only thing consistent in this codebase is the inconsistency.",
+    "tags": ["devmeme"]
+  },
+  {
+    "id": "dev_error.en.12",
+    "error_type": "dev_error",
+    "locale": "en",
+    "severity": 3,
+    "message": "Your README says one thing. Your application does another. Classic situationship.",
+    "tags": ["devmeme"]
+  },
+  {
+    "id": "dev_error.en.13",
+    "error_type": "dev_error",
+    "locale": "en",
+    "severity": 4,
+    "message": "You fixed the bug and accidentally introduced a franchise.",
+    "tags": ["devmeme"]
+  },
+  {
+    "id": "dev_error.en.14",
+    "error_type": "dev_error",
+    "locale": "en",
+    "severity": 3,
+    "message": "The requirements changed. Your architecture took it personally.",
+    "tags": ["devmeme"]
+  },
+  {
+    "id": "dev_error.en.15",
+    "error_type": "dev_error",
+    "locale": "en",
+    "severity": 3,
+    "message": "TODO: fix later — written by someone who clearly believed in reincarnation.",
+    "tags": ["devmeme"]
+  },
+  {
+    "id": "dev_error.en.16",
+    "error_type": "dev_error",
+    "locale": "en",
+    "severity": 4,
+    "message": "Error detected. Common sense not included in the request payload. 💀",
+    "tags": ["devmeme", "signature"]
+  }
+]

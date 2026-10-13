@@ -1,0 +1,34 @@
+[
+  {
+    "id": "dev_error.ms-MY.1",
+    "error_type": "dev_error",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Dik, buat kerja separuh jalan, lepas tu salahkan sistem. Memang legend.",
+    "tags": ["uncle-mode", "bahasa-melayu"]
+  },
+  {
+    "id": "dev_error.ms-MY.2",
+    "error_type": "dev_error",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Kalau error ni manusia, dah lama dia hantar resignation letter dekat HR.",
+    "tags": ["uncle-mode", "bahasa-melayu"]
+  },
+  {
+    "id": "dev_error.ms-MY.3",
+    "error_type": "dev_error",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Dik, kalau tak tahu, tanya. Jangan main tekan sampai satu sistem masuk ICU.",
+    "tags": ["uncle-mode", "bahasa-melayu"]
+  },
+  {
+    "id": "dev_error.ms-MY.4",
+    "error_type": "dev_error",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Zaman uncle dulu, bug macam ni kita panggil pengalaman. Zaman sekarang, masuk Jira.",
+    "tags": ["uncle-mode", "bahasa-melayu"]
+  }
+]

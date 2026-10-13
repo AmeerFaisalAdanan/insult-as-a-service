@@ -1,0 +1,94 @@
+[
+  {
+    "id": "missing_config.en-MY.1",
+    "error_type": "missing_config",
+    "locale": "en-MY",
+    "severity": 4,
+    "message": "Works on your machine konon. Your machine pun dah give up on you.",
+    "tags": ["config", "devmeme", "manglish"]
+  },
+
+  {
+    "id": "merge_conflict.en-MY.1",
+    "error_type": "merge_conflict",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "Even your code cannot agree with itself. How you expect the team to agree with you?",
+    "tags": ["git", "devmeme", "manglish"]
+  },
+
+  {
+    "id": "syntax_error.en-MY.1",
+    "error_type": "syntax_error",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "One tiny punctuation mark, bro. Your whole application tumbang. Drama betul.",
+    "tags": ["syntax", "devmeme", "manglish"]
+  },
+
+  {
+    "id": "type_error.en-MY.1",
+    "error_type": "type_error",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "You said string, passed an array. This is not pasar malam, cannot simply tukar barang.",
+    "tags": ["types", "devmeme", "manglish"]
+  },
+  {
+    "id": "type_error.en-MY.2",
+    "error_type": "type_error",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "Types matter, bro. This isn't a free-type buffet.",
+    "tags": ["types", "devmeme", "manglish"]
+  },
+
+  {
+    "id": "dev_error.en-MY.1",
+    "error_type": "dev_error",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "Benda simple macam ni pun sangkut? Kalau bagi you jaga kedai mamak, teh tarik pun jadi teh tertumpah.",
+    "tags": ["uncle-mode", "manglish"]
+  },
+  {
+    "id": "dev_error.en-MY.2",
+    "error_type": "dev_error",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "Aiyo, you test tak test ni? Atau main tekan button sambil tutup mata?",
+    "tags": ["uncle-mode", "manglish"]
+  },
+  {
+    "id": "dev_error.en-MY.3",
+    "error_type": "dev_error",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "Bukan sistem problem, boss. Sistem tengah reflect on its life choices sebab jumpa input you.",
+    "tags": ["uncle-mode", "manglish"]
+  },
+  {
+    "id": "dev_error.en-MY.4",
+    "error_type": "dev_error",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "Pandai complain. Isi borang pun macam jawab soalan SPM tanpa baca soalan.",
+    "tags": ["uncle-mode", "manglish"]
+  },
+  {
+    "id": "dev_error.en-MY.5",
+    "error_type": "dev_error",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "Relax boss, bukan semua orang dilahirkan untuk isi borang. Ada yang dilahirkan untuk tekan Submit 47 kali.",
+    "tags": ["uncle-mode", "manglish"]
+  },
+  {
+    "id": "dev_error.en-MY.6",
+    "error_type": "dev_error",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "You punya input ni bukan invalid dah. Ni dah masuk kategori minta bantuan.",
+    "tags": ["uncle-mode", "manglish"]
+  }
+]

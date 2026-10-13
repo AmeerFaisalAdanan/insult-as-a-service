@@ -1,0 +1,184 @@
+[
+  {
+    "id": "not_found.en.1",
+    "error_type": "not_found",
+    "locale": "en",
+    "severity": 2,
+    "message": "404: this page is in another castle.",
+    "tags": ["404"]
+  },
+  {
+    "id": "not_found.en.2",
+    "error_type": "not_found",
+    "locale": "en",
+    "severity": 3,
+    "message": "Gone. Like the documentation you promised to write.",
+    "tags": ["404"]
+  },
+  {
+    "id": "not_found.en.3",
+    "error_type": "not_found",
+    "locale": "en",
+    "severity": 3,
+    "message": "We searched everywhere. Even under your unfinished side projects.",
+    "tags": ["404"]
+  },
+  {
+    "id": "not_found.en.4",
+    "error_type": "not_found",
+    "locale": "en",
+    "severity": 3,
+    "message": "This resource has mastered the art of disappearing without notice.",
+    "tags": ["404"]
+  },
+
+  {
+    "id": "unauthorized.en.1",
+    "error_type": "unauthorized",
+    "locale": "en",
+    "severity": 2,
+    "message": "You'll need to sign in before doing that.",
+    "tags": ["401"]
+  },
+  {
+    "id": "unauthorized.en.2",
+    "error_type": "unauthorized",
+    "locale": "en",
+    "severity": 3,
+    "message": "Authentication failed. Confidence cannot be used as an identity document.",
+    "tags": ["401"]
+  },
+  {
+    "id": "unauthorized.en.3",
+    "error_type": "unauthorized",
+    "locale": "en",
+    "severity": 3,
+    "message": "Nice try. The server doesn't accept vibes as credentials.",
+    "tags": ["401"]
+  },
+
+  {
+    "id": "forbidden.en.1",
+    "error_type": "forbidden",
+    "locale": "en",
+    "severity": 2,
+    "message": "You don't have access to that one.",
+    "tags": ["403"]
+  },
+  {
+    "id": "forbidden.en.2",
+    "error_type": "forbidden",
+    "locale": "en",
+    "severity": 3,
+    "message": "You authenticated successfully. Unfortunately, permission is a different conversation.",
+    "tags": ["403"]
+  },
+  {
+    "id": "forbidden.en.3",
+    "error_type": "forbidden",
+    "locale": "en",
+    "severity": 3,
+    "message": "You have the key. You just don't own the house.",
+    "tags": ["403"]
+  },
+
+  {
+    "id": "rate_limited.en.1",
+    "error_type": "rate_limited",
+    "locale": "en",
+    "severity": 2,
+    "message": "Too many requests. Even the server needs a breather.",
+    "tags": ["429"]
+  },
+  {
+    "id": "rate_limited.en.2",
+    "error_type": "rate_limited",
+    "locale": "en",
+    "severity": 3,
+    "message": "You clicked that button like it owes you money.",
+    "tags": ["429"]
+  },
+  {
+    "id": "rate_limited.en.3",
+    "error_type": "rate_limited",
+    "locale": "en",
+    "severity": 3,
+    "message": "Clicking faster won't make your life load faster.",
+    "tags": ["429"]
+  },
+
+  {
+    "id": "network_error.en.1",
+    "error_type": "network_error",
+    "locale": "en",
+    "severity": 2,
+    "message": "Connection hiccup. Check your network and retry.",
+    "tags": ["network"]
+  },
+  {
+    "id": "network_error.en.2",
+    "error_type": "network_error",
+    "locale": "en",
+    "severity": 3,
+    "message": "It's always DNS until proven otherwise.",
+    "tags": ["network"]
+  },
+  {
+    "id": "network_error.en.3",
+    "error_type": "network_error",
+    "locale": "en",
+    "severity": 3,
+    "message": "The internet has left the chat.",
+    "tags": ["network"]
+  },
+
+  {
+    "id": "request_timeout.en.1",
+    "error_type": "request_timeout",
+    "locale": "en",
+    "severity": 2,
+    "message": "That took too long and timed out. Try again?",
+    "tags": ["timeout"]
+  },
+  {
+    "id": "request_timeout.en.2",
+    "error_type": "request_timeout",
+    "locale": "en",
+    "severity": 3,
+    "message": "Timeout. Your request went for lunch and never came back.",
+    "tags": ["timeout"]
+  },
+  {
+    "id": "request_timeout.en.3",
+    "error_type": "request_timeout",
+    "locale": "en",
+    "severity": 3,
+    "message": "This request has been loading longer than your motivation to refactor.",
+    "tags": ["timeout"]
+  },
+
+  {
+    "id": "server_error.en.1",
+    "error_type": "server_error",
+    "locale": "en",
+    "severity": 2,
+    "message": "Something broke on our end. We're on it.",
+    "tags": ["500"]
+  },
+  {
+    "id": "server_error.en.2",
+    "error_type": "server_error",
+    "locale": "en",
+    "severity": 3,
+    "message": "The server has encountered a problem and would like to speak to its manager.",
+    "tags": ["500"]
+  },
+  {
+    "id": "server_error.en.3",
+    "error_type": "server_error",
+    "locale": "en",
+    "severity": 3,
+    "message": "Five hundred. The server has officially lost the plot.",
+    "tags": ["500"]
+  }
+]

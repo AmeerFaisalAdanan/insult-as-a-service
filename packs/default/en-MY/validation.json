@@ -1,0 +1,465 @@
+[
+  {
+    "id": "invalid_email.en-MY.1",
+    "error_type": "invalid_email",
+    "locale": "en-MY",
+    "severity": 4,
+    "message": "Bro typed `gmail.con` and called it a day. 💀",
+    "tags": ["email", "typo", "manglish"]
+  },
+  {
+    "id": "invalid_email.en-MY.2",
+    "error_type": "invalid_email",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "Your email has more red flags than your ex.",
+    "tags": ["email", "manglish"]
+  },
+  {
+    "id": "invalid_email.en-MY.3",
+    "error_type": "invalid_email",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "Email typo detected. Confidence level: CEO.",
+    "tags": ["email", "manglish"]
+  },
+  {
+    "id": "invalid_email.en-MY.4",
+    "error_type": "invalid_email",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "You want us to send an email to where exactly? The shadow realm?",
+    "tags": ["email", "manglish"]
+  },
+  {
+    "id": "invalid_email.en-MY.5",
+    "error_type": "invalid_email",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "Boss, even your email address tak tahu jalan home.",
+    "tags": ["email", "manglish"]
+  },
+  {
+    "id": "invalid_email.en-MY.6",
+    "error_type": "invalid_email",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "Email ni typo ke you tengah test kesabaran sistem?",
+    "tags": ["email", "manglish"]
+  },
+  {
+    "id": "invalid_email.en-MY.7",
+    "error_type": "invalid_email",
+    "locale": "en-MY",
+    "severity": 4,
+    "message": "Bro can't even reach the inbox, how to reach his goals?",
+    "tags": ["email", "manglish"]
+  },
+  {
+    "id": "invalid_email.en-MY.8",
+    "error_type": "invalid_email",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "Your email address is having an identity crisis.",
+    "tags": ["email", "manglish"]
+  },
+
+  {
+    "id": "required_field.en-MY.1",
+    "error_type": "required_field",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "Boss, it's REQUIRED. Not RECOMMENDED. Can read or not?",
+    "tags": ["required", "manglish"]
+  },
+  {
+    "id": "required_field.en-MY.2",
+    "error_type": "required_field",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "I put an asterisk there for decoration ah?",
+    "tags": ["required", "manglish"]
+  },
+  {
+    "id": "required_field.en-MY.3",
+    "error_type": "required_field",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "You skipped the field and expected the system to read your mind? AI belum sampai tahap tu lah.",
+    "tags": ["required", "manglish"]
+  },
+  {
+    "id": "required_field.en-MY.4",
+    "error_type": "required_field",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "The field is empty. The confidence, however, is full.",
+    "tags": ["required", "manglish"]
+  },
+  {
+    "id": "required_field.en-MY.5",
+    "error_type": "required_field",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "You pressed Submit with half the form missing. Bold strategy.",
+    "tags": ["required", "manglish"]
+  },
+  {
+    "id": "required_field.en-MY.6",
+    "error_type": "required_field",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "This field is mandatory. Your cooperation appears to be optional.",
+    "tags": ["required", "manglish"]
+  },
+  {
+    "id": "required_field.en-MY.7",
+    "error_type": "required_field",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "Bro treats required fields like terms and conditions.",
+    "tags": ["required", "manglish"]
+  },
+  {
+    "id": "required_field.en-MY.8",
+    "error_type": "required_field",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "Form kosong, expectation tinggi. Respect.",
+    "tags": ["required", "manglish"]
+  },
+
+  {
+    "id": "password_too_weak.en-MY.1",
+    "error_type": "password_too_weak",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "Password macam ni, your neighbour's Wi-Fi has better security.",
+    "tags": ["password", "manglish"]
+  },
+  {
+    "id": "password_too_weak.en-MY.2",
+    "error_type": "password_too_weak",
+    "locale": "en-MY",
+    "severity": 4,
+    "message": "`123456`? Bro, even your mamak order deserves better protection.",
+    "tags": ["password", "manglish"]
+  },
+  {
+    "id": "password_too_weak.en-MY.3",
+    "error_type": "password_too_weak",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "Hackers see this password and feel kesian lah.",
+    "tags": ["password", "manglish"]
+  },
+  {
+    "id": "password_too_weak.en-MY.4",
+    "error_type": "password_too_weak",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "Your password is doing security theatre. Very convincing, until someone checks.",
+    "tags": ["password", "manglish"]
+  },
+  {
+    "id": "password_too_weak.en-MY.5",
+    "error_type": "password_too_weak",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "This password is one leaked database away from retirement.",
+    "tags": ["password", "manglish"]
+  },
+  {
+    "id": "password_too_weak.en-MY.6",
+    "error_type": "password_too_weak",
+    "locale": "en-MY",
+    "severity": 4,
+    "message": "Bro protecting company secrets with the same password he uses for his gaming account.",
+    "tags": ["password", "manglish"]
+  },
+  {
+    "id": "password_too_weak.en-MY.7",
+    "error_type": "password_too_weak",
+    "locale": "en-MY",
+    "severity": 4,
+    "message": "Security level: leave the front door open and put up a welcome sign.",
+    "tags": ["password", "manglish"]
+  },
+  {
+    "id": "password_too_weak.en-MY.8",
+    "error_type": "password_too_weak",
+    "locale": "en-MY",
+    "severity": 4,
+    "message": "Even a sticky note would feel overqualified protecting this.",
+    "tags": ["password", "manglish"]
+  },
+  {
+    "id": "password_too_weak.en-MY.9",
+    "error_type": "password_too_weak",
+    "locale": "en-MY",
+    "severity": 4,
+    "message": "Your password has the structural integrity of a wet tissue.",
+    "tags": ["password", "manglish"]
+  },
+  {
+    "id": "password_too_weak.en-MY.10",
+    "error_type": "password_too_weak",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "This password would fail a job interview for a padlock.",
+    "tags": ["password", "manglish"]
+  },
+
+  {
+    "id": "password_mismatch.en-MY.1",
+    "error_type": "password_mismatch",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "Two fields. Same person typing. Zero teamwork.",
+    "tags": ["password", "manglish"]
+  },
+  {
+    "id": "password_mismatch.en-MY.2",
+    "error_type": "password_mismatch",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "Your passwords don't recognise each other, bro.",
+    "tags": ["password", "manglish"]
+  },
+  {
+    "id": "password_mismatch.en-MY.3",
+    "error_type": "password_mismatch",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "Password tak sama. Dua-dua you yang type, dua-dua tak kenal each other.",
+    "tags": ["password", "manglish"]
+  },
+  {
+    "id": "password_mismatch.en-MY.4",
+    "error_type": "password_mismatch",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "Even your passwords cannot agree on a single thing.",
+    "tags": ["password", "manglish"]
+  },
+  {
+    "id": "password_mismatch.en-MY.5",
+    "error_type": "password_mismatch",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "Relationship status: Password and Confirm Password are not seeing each other.",
+    "tags": ["password", "manglish"]
+  },
+  {
+    "id": "password_mismatch.en-MY.6",
+    "error_type": "password_mismatch",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "Bro got beef with his own keyboard.",
+    "tags": ["password", "manglish"]
+  },
+  {
+    "id": "password_mismatch.en-MY.7",
+    "error_type": "password_mismatch",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "You typed it twice and still managed to surprise yourself.",
+    "tags": ["password", "manglish"]
+  },
+
+  {
+    "id": "password_too_short.en-MY.1",
+    "error_type": "password_too_short",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "That password ended before the security started.",
+    "tags": ["password", "manglish"]
+  },
+  {
+    "id": "password_too_short.en-MY.2",
+    "error_type": "password_too_short",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "Bro submitted a password on a free trial.",
+    "tags": ["password", "manglish"]
+  },
+  {
+    "id": "password_too_short.en-MY.3",
+    "error_type": "password_too_short",
+    "locale": "en-MY",
+    "severity": 4,
+    "message": "Your password is shorter than your attention span.",
+    "tags": ["password", "manglish"]
+  },
+  {
+    "id": "password_too_short.en-MY.4",
+    "error_type": "password_too_short",
+    "locale": "en-MY",
+    "severity": 2,
+    "message": "A few more characters, boss. Don't make security beg.",
+    "tags": ["password", "manglish"]
+  },
+  {
+    "id": "password_too_short.en-MY.5",
+    "error_type": "password_too_short",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "This password has the commitment level of a situationship.",
+    "tags": ["password", "manglish"]
+  },
+
+  {
+    "id": "invalid_date.en-MY.1",
+    "error_type": "invalid_date",
+    "locale": "en-MY",
+    "severity": 2,
+    "message": "Date entered. Calendar disagrees.",
+    "tags": ["date", "manglish"]
+  },
+  {
+    "id": "invalid_date.en-MY.2",
+    "error_type": "invalid_date",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "Time travel is not enabled in this form, boss.",
+    "tags": ["date", "manglish"]
+  },
+  {
+    "id": "invalid_date.en-MY.3",
+    "error_type": "invalid_date",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "Tarikh pun salah, dik. Kalendar ada jual dekat kedai lagi.",
+    "tags": ["date", "manglish"]
+  },
+  {
+    "id": "invalid_date.en-MY.4",
+    "error_type": "invalid_date",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "That date has officially left this timeline.",
+    "tags": ["date", "manglish"]
+  },
+  {
+    "id": "invalid_date.en-MY.5",
+    "error_type": "invalid_date",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "Your date format has more plot twists than a drama series.",
+    "tags": ["date", "manglish"]
+  },
+  {
+    "id": "invalid_date.en-MY.6",
+    "error_type": "invalid_date",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "Bro submitted a date from the multiverse.",
+    "tags": ["date", "manglish"]
+  },
+  {
+    "id": "invalid_date.en-MY.7",
+    "error_type": "invalid_date",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "Even Excel doesn't want to deal with this.",
+    "tags": ["date", "manglish"]
+  },
+
+  {
+    "id": "invalid_number.en-MY.1",
+    "error_type": "invalid_number",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "You entered `abc` and expected mathematics to happen?",
+    "tags": ["number", "manglish"]
+  },
+  {
+    "id": "invalid_number.en-MY.2",
+    "error_type": "invalid_number",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "Numbers only, boss. Letters are not on the payroll.",
+    "tags": ["number", "manglish"]
+  },
+  {
+    "id": "invalid_number.en-MY.3",
+    "error_type": "invalid_number",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "This field requested a number, not a creative writing submission.",
+    "tags": ["number", "manglish"]
+  },
+  {
+    "id": "invalid_number.en-MY.4",
+    "error_type": "invalid_number",
+    "locale": "en-MY",
+    "severity": 4,
+    "message": "Calculator unavailable. Common sense also unavailable.",
+    "tags": ["number", "manglish"]
+  },
+  {
+    "id": "invalid_number.en-MY.5",
+    "error_type": "invalid_number",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "The maths isn't mathing, lah.",
+    "tags": ["number", "manglish"]
+  },
+  {
+    "id": "invalid_number.en-MY.6",
+    "error_type": "invalid_number",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "Bro invented a new number system and forgot to tell everyone.",
+    "tags": ["number", "manglish"]
+  },
+  {
+    "id": "invalid_number.en-MY.7",
+    "error_type": "invalid_number",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "Even a calculator has boundaries.",
+    "tags": ["number", "manglish"]
+  },
+
+  {
+    "id": "invalid_url.en-MY.1",
+    "error_type": "invalid_url",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "That's not a URL. That's a cry for help with punctuation.",
+    "tags": ["url", "manglish"]
+  },
+  {
+    "id": "invalid_url.en-MY.2",
+    "error_type": "invalid_url",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "Where exactly is this link going, bro? Narnia?",
+    "tags": ["url", "manglish"]
+  },
+  {
+    "id": "invalid_url.en-MY.3",
+    "error_type": "invalid_url",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "URL invalid. Even Google wouldn't know where to send this.",
+    "tags": ["url", "manglish"]
+  },
+  {
+    "id": "invalid_url.en-MY.4",
+    "error_type": "invalid_url",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "You gave us a link-shaped object. Very creative.",
+    "tags": ["url", "manglish"]
+  },
+  {
+    "id": "invalid_url.en-MY.5",
+    "error_type": "invalid_url",
+    "locale": "en-MY",
+    "severity": 3,
+    "message": "Bro submitted a URL held together by hope and punctuation.",
+    "tags": ["url", "manglish"]
+  }
+]

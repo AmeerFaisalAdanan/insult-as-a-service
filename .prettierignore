@@ -1,0 +1,7 @@
+dist
+node_modules
+coverage
+package-lock.json
+
+# Test fixtures are exact inputs (some intentionally malformed); never reformat.
+tests/fixtures
