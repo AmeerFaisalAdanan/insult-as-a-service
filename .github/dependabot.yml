@@ -13,6 +13,12 @@ updates:
     commit-message:
       prefix: deps
       prefix-development: deps-dev
+    ignore:
+      # TypeScript 7 is the native-port compiler; typescript-eslint and tsup do
+      # not support it yet (typescript-eslint hard-errors on TS 7.0). Hold on the
+      # 5.x line until the toolchain catches up; revisit manually.
+      - dependency-name: 'typescript'
+        update-types: ['version-update:semver-major']
     groups:
       dev-dependencies:
         patterns:
