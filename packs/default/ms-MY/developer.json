@@ -30,5 +30,125 @@
     "severity": 3,
     "message": "Zaman uncle dulu, bug macam ni kita panggil pengalaman. Zaman sekarang, masuk Jira.",
     "tags": ["uncle-mode", "bahasa-melayu"]
+  },
+  {
+    "id": "build_failed.ms-MY.1",
+    "error_type": "build_failed",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Build gagal sebelum user sempat rasa. Bagus, jimat malu.",
+    "tags": ["build", "devmeme", "bahasa-melayu"]
+  },
+  {
+    "id": "build_failed.ms-MY.2",
+    "error_type": "build_failed",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Compiler dah hantar surat berhenti kerja. Katanya penat sangat.",
+    "tags": ["build", "devmeme", "bahasa-melayu"]
+  },
+  {
+    "id": "build_failed.ms-MY.3",
+    "error_type": "build_failed",
+    "locale": "ms-MY",
+    "severity": 2,
+    "message": "CI merah lagi. Integrasi berterusan, kekecewaan pun berterusan.",
+    "tags": ["ci", "devmeme", "bahasa-melayu"]
+  },
+  {
+    "id": "merge_conflict.ms-MY.1",
+    "error_type": "merge_conflict",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Code sendiri pun bergaduh. Macam mana nak sepakat dengan team?",
+    "tags": ["git", "devmeme", "bahasa-melayu"]
+  },
+  {
+    "id": "merge_conflict.ms-MY.2",
+    "error_type": "merge_conflict",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Dua branch masuk, satu je boleh keluar hidup-hidup.",
+    "tags": ["git", "devmeme", "bahasa-melayu"]
+  },
+  {
+    "id": "merge_conflict.ms-MY.3",
+    "error_type": "merge_conflict",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Git suruh you pilih sebelah. Code you ada isu komitmen rupanya.",
+    "tags": ["git", "devmeme", "bahasa-melayu"]
+  },
+  {
+    "id": "missing_config.ms-MY.1",
+    "error_type": "missing_config",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Variable persekitaran hilang entah ke mana. Config pandai main sorok-sorok.",
+    "tags": ["config", "devmeme", "bahasa-melayu"]
+  },
+  {
+    "id": "missing_config.ms-MY.2",
+    "error_type": "missing_config",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Takde config, takde nyawa. Sistem cuma tahu merajuk.",
+    "tags": ["config", "devmeme", "bahasa-melayu"]
+  },
+  {
+    "id": "missing_config.ms-MY.3",
+    "error_type": "missing_config",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Production tanya config kat mana. Kami pun tertanya-tanya, boss.",
+    "tags": ["config", "devmeme", "bahasa-melayu"]
+  },
+  {
+    "id": "syntax_error.ms-MY.1",
+    "error_type": "syntax_error",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Satu tanda baca hilang, satu sistem naik angin. Drama betul.",
+    "tags": ["syntax", "devmeme", "bahasa-melayu"]
+  },
+  {
+    "id": "syntax_error.ms-MY.2",
+    "error_type": "syntax_error",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Komputer ikut cakap bulat-bulat, tak macam you tafsir requirement.",
+    "tags": ["syntax", "devmeme", "bahasa-melayu"]
+  },
+  {
+    "id": "syntax_error.ms-MY.3",
+    "error_type": "syntax_error",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Silap koma sikit je, tapi code terus merajuk tak nak jalan.",
+    "tags": ["syntax", "devmeme", "bahasa-melayu"]
+  },
+  {
+    "id": "type_error.ms-MY.1",
+    "error_type": "type_error",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "You kata string, hantar array pula. Sistem bukan tukang ramal, dik.",
+    "tags": ["types", "devmeme", "bahasa-melayu"]
+  },
+  {
+    "id": "type_error.ms-MY.2",
+    "error_type": "type_error",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Jenis data tak sepadan. Macam pakai selipar pergi kenduri.",
+    "tags": ["types", "devmeme", "bahasa-melayu"]
+  },
+  {
+    "id": "type_error.ms-MY.3",
+    "error_type": "type_error",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Nombor letak tempat teks, teks letak tempat nombor. Kreatif, tapi salah.",
+    "tags": ["types", "devmeme", "bahasa-melayu"]
   }
 ]

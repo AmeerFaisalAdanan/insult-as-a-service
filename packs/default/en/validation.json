@@ -12,7 +12,7 @@
     "error_type": "invalid_email",
     "locale": "en",
     "severity": 3,
-    "message": "That email has more red flags than your last relationship.",
+    "message": "That email took a wrong turn at the @ and never recovered.",
     "tags": ["email"]
   },
   {
@@ -294,7 +294,7 @@
     "error_type": "invalid_date",
     "locale": "en",
     "severity": 3,
-    "message": "Your date format has more plot twists than a drama series.",
+    "message": "That date reinvented the calendar and told absolutely no one.",
     "tags": ["date"]
   },
 
@@ -313,5 +313,197 @@
     "severity": 3,
     "message": "I'd call that number, but it doesn't exist.",
     "tags": ["phone"]
+  },
+  {
+    "id": "required_field.en.5",
+    "error_type": "required_field",
+    "locale": "en",
+    "severity": 1,
+    "message": "Just one small thing missing here — pop something in and you're all set.",
+    "tags": ["required", "gentle"]
+  },
+  {
+    "id": "required_field.en.6",
+    "error_type": "required_field",
+    "locale": "en",
+    "severity": 1,
+    "message": "Almost there! This one still needs a little something.",
+    "tags": ["required", "gentle"]
+  },
+  {
+    "id": "required_field.en.7",
+    "error_type": "required_field",
+    "locale": "en",
+    "severity": 5,
+    "message": "You submitted a form with a hole in it and the sheer audacity to hit send. Legendary.",
+    "tags": ["required", "savage"]
+  },
+  {
+    "id": "required_field.en.8",
+    "error_type": "required_field",
+    "locale": "en",
+    "severity": 5,
+    "message": "This field is empty, your ambition is full, and the two have clearly never met.",
+    "tags": ["required", "savage"]
+  },
+  {
+    "id": "invalid_email.en.6",
+    "error_type": "invalid_email",
+    "locale": "en",
+    "severity": 1,
+    "message": "Looks like a tiny typo in the email — want to give it a quick glance?",
+    "tags": ["email", "gentle"]
+  },
+  {
+    "id": "invalid_email.en.7",
+    "error_type": "invalid_email",
+    "locale": "en",
+    "severity": 1,
+    "message": "Almost a valid email! Just double-check the spelling.",
+    "tags": ["email", "gentle"]
+  },
+  {
+    "id": "invalid_email.en.8",
+    "error_type": "invalid_email",
+    "locale": "en",
+    "severity": 5,
+    "message": "That email has a typo, a prayer, and absolutely nowhere to be delivered.",
+    "tags": ["email", "savage"]
+  },
+  {
+    "id": "invalid_email.en.9",
+    "error_type": "invalid_email",
+    "locale": "en",
+    "severity": 5,
+    "message": "I've seen hieroglyphics that route better than that email address.",
+    "tags": ["email", "savage"]
+  },
+  {
+    "id": "invalid_format.en.3",
+    "error_type": "invalid_format",
+    "locale": "en",
+    "severity": 1,
+    "message": "So close — the format just needs a tiny tweak. Peek at the example?",
+    "tags": ["format", "gentle"]
+  },
+  {
+    "id": "invalid_format.en.4",
+    "error_type": "invalid_format",
+    "locale": "en",
+    "severity": 1,
+    "message": "Nearly right. Match the example and you're good to go.",
+    "tags": ["format", "gentle"]
+  },
+  {
+    "id": "invalid_format.en.5",
+    "error_type": "invalid_format",
+    "locale": "en",
+    "severity": 5,
+    "message": "There was a format. You looked it dead in the eye and freestyled anyway.",
+    "tags": ["format", "savage"]
+  },
+  {
+    "id": "invalid_format.en.6",
+    "error_type": "invalid_format",
+    "locale": "en",
+    "severity": 5,
+    "message": "The example was right there. You chose improvisation and violence.",
+    "tags": ["format", "savage"]
+  },
+  {
+    "id": "invalid_input.en.3",
+    "error_type": "invalid_input",
+    "locale": "en",
+    "severity": 1,
+    "message": "Something's slightly off with that entry — mind taking another look?",
+    "tags": ["input", "gentle"]
+  },
+  {
+    "id": "invalid_input.en.4",
+    "error_type": "invalid_input",
+    "locale": "en",
+    "severity": 1,
+    "message": "Almost! That input just needs a small fix.",
+    "tags": ["input", "gentle"]
+  },
+  {
+    "id": "invalid_input.en.5",
+    "error_type": "invalid_input",
+    "locale": "en",
+    "severity": 5,
+    "message": "I have parsed a lot of input. That one I'll be unpacking in therapy.",
+    "tags": ["input", "savage"]
+  },
+  {
+    "id": "invalid_input.en.6",
+    "error_type": "invalid_input",
+    "locale": "en",
+    "severity": 5,
+    "message": "That input didn't fail validation so much as declare open war on it.",
+    "tags": ["input", "savage"]
+  },
+  {
+    "id": "password_too_short.en.4",
+    "error_type": "password_too_short",
+    "locale": "en",
+    "severity": 1,
+    "message": "So close — just a few more characters and it's perfect.",
+    "tags": ["password", "gentle"]
+  },
+  {
+    "id": "password_too_short.en.5",
+    "error_type": "password_too_short",
+    "locale": "en",
+    "severity": 1,
+    "message": "Nearly there! Add a little more length to that password.",
+    "tags": ["password", "gentle"]
+  },
+  {
+    "id": "password_too_short.en.6",
+    "error_type": "password_too_short",
+    "locale": "en",
+    "severity": 5,
+    "message": "That password clocks out before the login screen even finishes loading.",
+    "tags": ["password", "savage"]
+  },
+  {
+    "id": "password_too_short.en.7",
+    "error_type": "password_too_short",
+    "locale": "en",
+    "severity": 5,
+    "message": "Blink and you'd miss that password. So would any security it was meant to provide.",
+    "tags": ["password", "savage"]
+  },
+  {
+    "id": "invalid_number.en.5",
+    "error_type": "invalid_number",
+    "locale": "en",
+    "severity": 1,
+    "message": "Looks like a stray character snuck in — numbers only here.",
+    "tags": ["number", "gentle"]
+  },
+  {
+    "id": "invalid_number.en.6",
+    "error_type": "invalid_number",
+    "locale": "en",
+    "severity": 1,
+    "message": "Almost a number! Just drop the non-digits and you're set.",
+    "tags": ["number", "gentle"]
+  },
+  {
+    "id": "invalid_number.en.7",
+    "error_type": "invalid_number",
+    "locale": "en",
+    "severity": 5,
+    "message": "That is not a number. That is a ransom note assembled from a keyboard.",
+    "tags": ["number", "savage"]
+  },
+  {
+    "id": "invalid_number.en.8",
+    "error_type": "invalid_number",
+    "locale": "en",
+    "severity": 5,
+    "message": "Mathematics took one look at that and filed for early retirement.",
+    "tags": ["number", "savage"]
   }
 ]

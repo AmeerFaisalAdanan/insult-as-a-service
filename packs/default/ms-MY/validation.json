@@ -205,5 +205,101 @@
     "severity": 3,
     "message": "URL tak sah, dik. Bukan semua benda yang ada titik tu website.",
     "tags": ["url", "bahasa-melayu"]
+  },
+  {
+    "id": "invalid_format.ms-MY.1",
+    "error_type": "invalid_format",
+    "locale": "ms-MY",
+    "severity": 2,
+    "message": "Format tak kena sikit, dik. Tengok contoh dulu sebelum taip.",
+    "tags": ["format", "bahasa-melayu"]
+  },
+  {
+    "id": "invalid_format.ms-MY.2",
+    "error_type": "invalid_format",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Ada contoh kat atas tu, boss. Bukan letak untuk cantik-cantik.",
+    "tags": ["format", "bahasa-melayu"]
+  },
+  {
+    "id": "invalid_format.ms-MY.3",
+    "error_type": "invalid_format",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Format ni you reka sendiri ke? Sistem tak reti bahasa baru.",
+    "tags": ["format", "bahasa-melayu"]
+  },
+  {
+    "id": "invalid_input.ms-MY.1",
+    "error_type": "invalid_input",
+    "locale": "ms-MY",
+    "severity": 2,
+    "message": "Ada yang pelik dengan input ni, cuba semak sekali lagi ya.",
+    "tags": ["input", "bahasa-melayu"]
+  },
+  {
+    "id": "invalid_input.ms-MY.2",
+    "error_type": "invalid_input",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Input masuk, tapi sistem terus termenung sekejap tengok dia.",
+    "tags": ["input", "bahasa-melayu"]
+  },
+  {
+    "id": "invalid_input.ms-MY.3",
+    "error_type": "invalid_input",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Benda ni bukan salah sikit dah, dik. Dah tahap kena ulang balik.",
+    "tags": ["input", "bahasa-melayu"]
+  },
+  {
+    "id": "invalid_phone.ms-MY.1",
+    "error_type": "invalid_phone",
+    "locale": "ms-MY",
+    "severity": 2,
+    "message": "Nombor telefon ni tak cukup digit, boss. Cuba lengkapkan.",
+    "tags": ["phone", "bahasa-melayu"]
+  },
+  {
+    "id": "invalid_phone.ms-MY.2",
+    "error_type": "invalid_phone",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Call nombor ni agaknya sampai planet lain kot.",
+    "tags": ["phone", "bahasa-melayu"]
+  },
+  {
+    "id": "invalid_phone.ms-MY.3",
+    "error_type": "invalid_phone",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Nombor ni tak wujud, dik. Nak hubungi pun sistem angkat tangan.",
+    "tags": ["phone", "bahasa-melayu"]
+  },
+  {
+    "id": "out_of_range.ms-MY.1",
+    "error_type": "out_of_range",
+    "locale": "ms-MY",
+    "severity": 2,
+    "message": "Nilai tu lebih dari had yang dibenarkan, kurangkan sikit ya.",
+    "tags": ["range", "bahasa-melayu"]
+  },
+  {
+    "id": "out_of_range.ms-MY.2",
+    "error_type": "out_of_range",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Ada had, boss. You pandang pun tak nak pandang.",
+    "tags": ["range", "bahasa-melayu"]
+  },
+  {
+    "id": "out_of_range.ms-MY.3",
+    "error_type": "out_of_range",
+    "locale": "ms-MY",
+    "severity": 3,
+    "message": "Nombor ni jauh sangat dari julat sampai kena bawa bekal.",
+    "tags": ["range", "bahasa-melayu"]
   }
 ]

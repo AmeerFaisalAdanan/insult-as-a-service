@@ -114,8 +114,10 @@ describe('error type lookup', () => {
   });
 
   it('known error type with no matching content returns the original', () => {
-    // 'invalid_format' exists only in 'en'; request it in ms-MY with no parent content.
-    const iaas = createIaaS({ enabled: true, locale: 'ms-MY' });
+    // A registered, roastable type but an empty content set -> no_match.
+    // (Uses includeDefaultPack:false rather than a content-coverage gap, so this
+    // stays valid as locale/type coverage grows.)
+    const iaas = createIaaS({ enabled: true, locale: 'ms-MY', includeDefaultPack: false });
     const r = iaas.result('Original', 'invalid_format');
     expect(r.roasted).toBe(false);
     expect(r.fallbackReason).toBe('no_match');
